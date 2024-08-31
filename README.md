@@ -55,14 +55,11 @@ This project can be used as an interactive educational tool, an art creation pla
    ```bash
    git clone https://github.com/imaayushisingh/hand-gesture-based-drawing-application.git
 
-
    ```bash
   cd hand-gesture-drawing-app
-
   
    ```bash
   pip install opencv-python numpy mediapipe
-
 
    ```bash
   python app.py
